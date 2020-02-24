@@ -23,3 +23,7 @@
 hs_err_pid*
 
 target/
+
+# ignore ide stuff
+.vscode
+*.iml
