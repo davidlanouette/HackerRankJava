@@ -1,5 +1,7 @@
 # Problem
 
+https://www.hackerrank.com/challenges/extra-long-factorials/problem
+
 The factorial of the integer _n_, written _n!_, is defined as:
     n! = n * (n-1) * (n-2) * ... * x * 2 * 1
 
